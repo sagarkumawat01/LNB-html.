@@ -1,0 +1,7 @@
+.box{
+    border: 1px solid black;
+    height:600 px;
+    width:500 px;
+    background-image: linear-gradient(green ,white );
+    background-image: linear-gradient(to right green ,white );
+}
